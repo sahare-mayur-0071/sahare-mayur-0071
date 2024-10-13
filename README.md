@@ -13,9 +13,8 @@
   
   
   - 👨‍🎓 Graduation from Savitribai Phule Pune university. <br>
-  - 💻 Looking for diff opportunities. <br>
   - 💬 Ask Me About: Python, C++, Web Development or anything. <br>
-  - 📫 Reach Me At: [mayursahare51@gmail.com](mailto:mayursahare51@gmail.com) <br>
+  - 📫 Reach Me At: [mayursahare2024@gmail.com](mailto:mayursahare2024@gmail.com) <br>
   - 📍 **Location:** India <br>
     
   <h3 align="left">Connect with me:</h3>
@@ -45,7 +44,7 @@
 
    <h3>🎖 Certification Badges 🪶</h3>
 
-   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+   <div style='display:flex; align-items:left gap: 10px;' align='left'>
    <a href="https://api.badgr.io/public/assertions/KSZlc3bCTbWRsrM8t4xxaw?identity__email=mayursahare51%40gmail.com">
    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
    <a href="#">
