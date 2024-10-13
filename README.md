@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shraman-jain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center"> Hi there, I'm <a href="[https://www.linkedin.com/in/Shraman-jain/](https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSP1zl%2BIXRmKlM8MxMGBclQ%3D%3D)">MAYUR AJIT SAHRE</a> <img src="./assets/giphy.gif" width="35px" alt="GIF"> </h1>
+<h1 align="center"> Hi there, I'm <a href="[https://www.linkedin.com/in/Shraman-jain/](https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSP1zl%2BIXRmKlM8MxMGBclQ%3D%3D)">Mayur Ajit Sahare</a> <img src="./assets/giphy.gif" width="35px" alt="GIF"> </h1>
 
 <img height="40" alt="Kyubey" src="https://private-user-images.githubusercontent.com/74038190/238355375-51865424-10f2-4859-8055-b62b1c0d8d36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM1ODU4MTMsIm5iZiI6MTcyMzU4NTUxMywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNzUtNTE4NjU0MjQtMTBmMi00ODU5LTgwNTUtYjYyYjFjMGQ4ZDM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEzVDIxNDUxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1OWYwYzY2ZTc5MTgwN2IwYzVlZDU2OTQ2M2VjYmNmN2RmOGYyMTdlMTU1YTdlYjVhYjk0NDE2MWUxYTJhYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MDZzu6TnLdWJE2vwdkiOUcKQwYePDXFusLKIEE0_ZeU"/>
 
@@ -53,7 +53,8 @@
 # 🎖 Badges
 ### GSSoC'24 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="[https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png](https://api.badgr.io/public/assertions/KSZlc3bCTbWRsrM8t4xxaw/image)" width="100px" height="100px" />
+<img src="[https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png](![image](https://github.com/user-attachments/assets/efe37890-f1a1-4a12-9642-67fe68c98134)
+)" width="100px" height="100px" />
  
 </div>
 
