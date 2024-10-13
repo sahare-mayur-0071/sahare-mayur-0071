@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there, I'm <a href="(https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTFS1%2FAvxSvyIDrAiinNVEg%3D%3D)">Mayur Ajit Sahare</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="(https://www.linkedin.com/in/Mayur Sahare/)">Mayur Ajit Sahare</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
