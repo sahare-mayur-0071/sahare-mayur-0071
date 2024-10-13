@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <a href="#">
   <a href=" https://api.badgr.io/public/assertions/KSZlc3bCTbWRsrM8t4xxaw?identity__email=mayursahare51%40gmail.com">
-  <img src="python-for-data-science.png" width="100px" height="100px" />
+  <img src="https://tkprajagopal.wordpress.com/wp-content/uploads/2021/07/t-k-p-rajagopal-t-k-p-3-python_101_data_science.png" width="100px" height="100px" />
   </div>
   
   
