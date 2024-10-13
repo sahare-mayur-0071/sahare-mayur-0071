@@ -13,6 +13,7 @@
   
   
   - 👨‍🎓 Graduation from Savitribai Phule Pune university. <br>
+  - 💻 Looking for diff opportunities. <br>
   - 💬 Ask Me About: Python, C++, Web Development or anything. <br>
   - 📫 Reach Me At: [mayursahare51@gmail.com](mailto:mayursahare51@gmail.com) <br>
   - 📍 **Location:** India <br>
@@ -27,17 +28,31 @@
   <a href="https://www.leetcode.com/https://leetcode.com/u/mayur_sahare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mayur_sahare/" height="30" width="40" /></a>
   </p>
   
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages</h3>
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   
-  <h3>🎖 Certification Badges 🪶</h3>
-  <div style='display:flex; align-items:left; gap: 10px;' align='left'>
-  <a href="https://api.badgr.io/public/assertions/KSZlc3bCTbWRsrM8t4xxaw?identity__email=mayursahare51%40gmail.com">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <a href="#">
-  <a href=" https://www.credly.com/badges/9082ec28-5683-47f0-a0f9-e662855636fd/linked_in?t=shus30">
-  <img src="https://tkprajagopal.wordpress.com/wp-content/uploads/2021/07/t-k-p-rajagopal-t-k-p-3-python_101_data_science.png" width="100px" height="100px" />
-  </div>
+  <details>	
+    <summary><b>🛠 Tech Stack</b></summary><br>
+   Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+   <!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+   <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
+   <!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+   <h3></h3>Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+   <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;<br>
+   </details> 
+
+   <h3>🎖 Certification Badges 🪶</h3>
+
+   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+   <a href="https://api.badgr.io/public/assertions/KSZlc3bCTbWRsrM8t4xxaw?identity__email=mayursahare51%40gmail.com">
+   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+   <a href="#">
+   <a href=" https://www.credly.com/badges/9082ec28-5683-47f0-a0f9-e662855636fd/linked_in?t=shus30">
+   <img src="https://tkprajagopal.wordpress.com/wp-content/uploads/2021/07/t-k-p-rajagopal-t-k-p-3-python_101_data_science.png" width="100px" height="100px" />
+   </div>
+   
   
   
 
