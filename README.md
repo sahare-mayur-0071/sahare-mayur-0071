@@ -33,7 +33,6 @@
   <h4 align="left">Operating Systems :</h4>
   <div style='display:flex; align-items:center; gap: 10px;' align='center'></div>
   <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-  
   <h3>🎖 Certification Badges 🪶</h3>
 
   <div style='display:flex; align-items:left; gap: 10px;' align='left'>
