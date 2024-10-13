@@ -15,7 +15,7 @@
     
   
   ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/shraman-jain](https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSP1zl%2BIXRmKlM8MxMGBclQ%3D%3D)) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/mayur-sahar e-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSP1zl%2BIXRmKlM8MxMGBclQ%3D%3D)) 
   
   ## 💻 Tech Stack:
   
