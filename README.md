@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mayur-sahare-58513128a/">Mayur</a> </h1>
 
 <!--- Adding Header Elements -->
-<p align="center">
+<p align="center" justify= "space-evenly">
   <a href="https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B9%2F5yWyKXQ%2FyLdONiOfZoFg%3D%3D">LinkedIn</a> - 
   <a href="https://x.com/mayursahare51">Twitter</a> -
   <a href="https://www.instagram.com/sahare_mayur_007/">Instagram</a> -
@@ -13,10 +13,10 @@
   
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="400" height="200"/>
 
-  <p align="left">I'm a Computer Engineering student. I enjoy building real-world projects and contributing to open-source initiatives.</p>
+   <p align="left">I'm a Computer Engineering student. I enjoy building real-world projects and contributing to open-source initiatives.</p>
 
   - 🔭 I’m currently working on enhancing my skills through various Open-Source Programs <br>
-  -👯 I’m looking to collaborate on projects related to Web development.<br>
+  - 👯 I’m looking to collaborate on projects related to Web development.<br>
   - 💬 Ask Me About: Python, C++, Web Development or anything. <br>
   - 📫 Reach Me At: [mayursahare2024@gmail.com](mailto:mayursahare2024@gmail.com) <br>
   - 📍 **Location:** India <br>
