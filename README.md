@@ -52,7 +52,7 @@
    <a href="https://api.badgr.io/public/assertions/KSZlc3bCTbWRsrM8t4xxaw?identity__email=mayursahare51%40gmail.com">
    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
    <a href="#">
-   <a href=" https://www.credly.com/badges/9082ec28-5683-47f0-a0f9-e662855636fd/linked_in?t=shus30">
+   <a href="[(https://www.credly.com/badges/9082ec28-5683-47f0-a0f9-e662855636fd/public_url)">
    <img src="https://tkprajagopal.wordpress.com/wp-content/uploads/2021/07/t-k-p-rajagopal-t-k-p-3-python_101_data_science.png" width="100px" height="100px" />
    </div>
    
