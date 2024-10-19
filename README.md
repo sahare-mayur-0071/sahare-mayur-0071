@@ -15,7 +15,7 @@
 
    <p align="left">I'm a Computer Engineering student. I enjoy building real-world projects and contributing to open-source initiatives.</p>
 
-  - 🔭 I’m currently working on enhancing my skills through various Programs <br>
+  - 🔭 I’m currently working on enhancing my skills through  Programs <br>
   - 👯 I’m looking to collaborate on projects related to Web development.<br>
   - 💬 Ask Me About: Python, C++, Web Development or anything. <br>
   - 📫 Reach Me At: [mayursahare2024@gmail.com](mailto:mayursahare2024@gmail.com) <br>
