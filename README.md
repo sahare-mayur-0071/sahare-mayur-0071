@@ -1,5 +1,4 @@
  <h1 align="center">Hi 👋, I'm Mayur Ajit Sahare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <!--- Adding Header Elements -->
 <p align="center" justify= "space-evenly">
