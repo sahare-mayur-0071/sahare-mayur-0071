@@ -55,6 +55,8 @@
    <a href="[(https://www.credly.com/badges/9082ec28-5683-47f0-a0f9-e662855636fd/public_url)">
    <img src="https://tkprajagopal.wordpress.com/wp-content/uploads/2021/07/t-k-p-rajagopal-t-k-p-3-python_101_data_science.png" width="100px" height="100px" />
    </div>
+
+   [![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahare-mayur-0071)](https://github.com/sahare-mayur-0071/github-readme-stats)
    
   
   
