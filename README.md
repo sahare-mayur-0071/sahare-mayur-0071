@@ -58,7 +58,14 @@
 <h2></h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahare-mayur-0071" alt="sahare-mayur-0071" /></a> </p>
+<br>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahare-mayur-0071&label=Profile%20views&color=0e75b6&style=flat" alt="sahare-mayur-0071" /> </p>
+#### 🔍 Profile views :
+![Visitor Count](https://profile-counter.glitch.me/{sahare-mayur-0071}/count.svg)
 
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effectively..." alt="Typing SVG"/>
+    </h1>
+</div>
