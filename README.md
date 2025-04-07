@@ -19,7 +19,6 @@
 
   - 🔭 I’m currently working on enhancing my skills through various open-source Programs <br>
   - 👯 I’m looking to collaborate on projects related to Web development.<br>
-  - 💬 Ask Me About: Python, C++, Web Development or anything. <br>
   - 📫 Reach Me At: [mayursahare2024@gmail.com](mailto:mayursahare2024@gmail.com) <br>
   - 📍 **Location:** India <br>
 
