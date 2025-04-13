@@ -6,7 +6,7 @@
 <p align="center" justify= "space-evenly">
   <a href="https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B9%2F5yWyKXQ%2FyLdONiOfZoFg%3D%3D">LinkedIn</a> - 
   <a href="https://x.com/mayursahare51">Twitter</a> -
-  <a href="https://www.instagram.com/sahare_mayur_007/">Instagram</a> -
+  <a href="https://www.instagram.com/mayursahare222/">Instagram</a> -
   <a href="https://www.linkedin.com/in/mayur-sahare-58513128a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B9%2F5yWyKXQ%2FyLdONiOfZoFg%3D%3D">Contact me</a> 
 </p>
 
