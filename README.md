@@ -93,12 +93,11 @@ class MayurSahare:
 
 ---
 
-## 🏆 **GitHub Achievements**
+## ⏰ **Coding Habits**
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahare-mayur-0071&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahare-mayur-0071&theme=radical" width="48%" style="border-radius: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahare-mayur-0071&theme=radical" width="48%" style="border-radius: 10px;"/>
 </p>
 
 <br>
