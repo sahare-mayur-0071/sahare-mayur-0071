@@ -3,8 +3,8 @@
 <!-- Breathtaking Animated Header -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
 
-<!-- Large Glowing Name & Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Mayur+Sahare!+👋;Full-Stack+Web+Developer+🚀;Open+Source+Contributor+🌟;Always+Building+&+Learning+💻" alt="Typing SVG" />
+<!-- Large Glowing Name & Roles (Fixed Rendering Issue) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Hi+I+am+Mayur+Sahare!;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Building+and+Learning" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:mayursahare2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
