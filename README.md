@@ -72,9 +72,9 @@ class MayurSahare:
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
-  <!-- Grouping icons nicely in dark theme -->
+  <!-- Expanded icon list requested by the user, arranged into perfect rows of 10 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,postman,ps&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nodejs,mongodb,mysql,aws,vercel,docker,git,github,postman,ps&perline=10&theme=dark" />
   </a>
 </p>
 
