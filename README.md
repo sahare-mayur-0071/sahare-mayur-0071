@@ -22,7 +22,6 @@
 ```python
 class MayurSahare:
     def __init__(self):
-        self.name = "Mayur Sahare"
         self.role = "Computer Engineering Student"
         self.location = "India"
         self.passions = ["Open Source", "Web Development", "Algorithms"]
@@ -30,10 +29,6 @@ class MayurSahare:
     def current_focus(self):
         """What I am doing right now."""
         return "Scaling impact via GSSoC and building full-stack web applications."
-
-    def contact(self):
-        """How to reach me."""
-        return {"email": "mayursahare2024@gmail.com"}
 
     def get_quote(self):
         return "Code with passion, create with purpose."
