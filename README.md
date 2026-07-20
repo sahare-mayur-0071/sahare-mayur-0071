@@ -1,108 +1,63 @@
 <div align="center">
 
-<!-- Breathtaking Animated Header -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
-
-<!-- Large Glowing Name & Roles (Fixed Rendering Issue) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Hi+I+am+Mayur+Sahare!;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Building+and+Learning" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Mayur%20Sahare&fontSize=70&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20&descAlignY=55&descAlign=50&animation=twinkling" />
 
 <p align="center">
-  <a href="mailto:mayursahare2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  
-  <a href="https://dev.to/dev.sahare-mayur-0071"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  <a href="https://leetcode.com/u/mayursahare/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
-<br>
-
----
-
-## 👨‍💻 **`whoami`**
-
-```python
-class MayurSahare:
-    def __init__(self):
-        self.role = "Computer Engineering Student"
-        self.location = "India"
-        self.passions = ["Open Source", "Web Development", "Algorithms"]
-
-    def current_focus(self):
-        """What I am doing right now."""
-        return "Scaling impact via GSSoC and building full-stack web applications."
-
-    def get_quote(self):
-        return "Code with passion, create with purpose."
-```
-
-<br>
-
----
-
-## 🌟 **Developer Dashboard**
-
-<!-- Using a complex table layout to create a "Dashboard" feel -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <!-- Left Column: Core Stats -->
-    <td width="55%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sahare-mayur-0071&theme=radical&show_icons=true&hide_border=true&count_private=true" width="100%" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahare-mayur-0071&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <!-- Right Column: Language Donut & Profile Card -->
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahare-mayur-0071&theme=radical&hide_border=true&layout=donut" width="100%" />
-      <br>
-      <!-- Summary Card for deep profile insights -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahare-mayur-0071&theme=radical" width="100%" style="border-radius: 10px; margin-top: 5px;"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 🛠️ **Tech Stack & Tools**
-
-<p align="center">
-  <!-- Expanded icon list requested by the user, arranged into perfect rows of 10 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nodejs,mongodb,mysql,aws,vercel,docker,git,github,postman,ps&perline=10&theme=dark" />
+  <a href="mailto:mayursahare2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dev.to/dev.sahare-mayur-0071">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://leetcode.com/u/mayursahare/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
-<br>
+### 👨‍💻 About Me
 
----
+```json
+{
+  "name": "Mayur Sahare",
+  "role": "Computer Engineering Student",
+  "location": "India",
+  "focus": "Scaling impact via GSSoC & Full-Stack Web Apps",
+  "hobbies": ["Open Source", "Web Development", "Algorithms"]
+}
+```
 
-## 🚀 **Contribution Activity**
+<br/>
 
-<p align="center">
-  <!-- Huge activity graph with the matching 'radical' aesthetic -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahare-mayur-0071&theme=radical&hide_border=true" width="100%" />
-</p>
-
-<br>
-
----
-
-## ⏰ **Coding Habits**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahare-mayur-0071&theme=radical" width="48%" style="border-radius: 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahare-mayur-0071&theme=radical" width="48%" style="border-radius: 10px;"/>
-</p>
-
-<br>
-
-<!-- Footer Banner to cleanly cap off the profile -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px;">
-
-<br>
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahare-mayur-0071&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nodejs,mongodb,mysql,aws,vercel,docker,git,github,postman,ps&perline=10&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahare77&theme=radical&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahare77&theme=radical&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahare77&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+### 🚀 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahare77&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=150&section=footer" />
 
 </div>
