@@ -41,8 +41,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- YEH DO IMAGES KA SERVER DOWN HAI. JAB THEEK HO JAYE TAB INKO WAPAS UNCOMMENT KAR DENA -->
+  <!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=sahare77&theme=radical&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahare77&theme=radical&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  -->
 </p>
 
 <p align="center">
