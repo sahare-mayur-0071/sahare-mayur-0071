@@ -59,8 +59,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahare77&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahare77&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=150&section=footer" />
+
+
 
 </div>
